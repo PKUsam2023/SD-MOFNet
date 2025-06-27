@@ -5,7 +5,7 @@ Assemble the generated structure data into atomic structures.
 ## Acknowledgements and License
 
 This project is adapted from the code developed by Microsoft Corporation and Massachusetts Institute of Technology.
-[paper](https://arxiv.org/abs/2310.10732) | [data and pretained models](https://zenodo.org/uploads/10467288)
+[paper]() | [data and pretained models](https://zenodo.org/records/15745443)
 The original code is released under the MIT License, reproduced below:
 
     MIT License
