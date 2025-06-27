@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 We recommend using the Anaconda Python distribution, which is available for Windows, MacOS, and Linux. Installation for all required packages (listed above) has been tested using the standard instructions from the providers of each package.
 
-You can download the preprocessed `linker_valence_table` and `valid_bbs_space_408626` database from [Zenodo]() (recommended).
+You can download the preprocessed `linker_valence_table` and `valid_bbs_space_408626` database from [Zenodo](https://zenodo.org/records/15745443) (recommended).
 
 To obtain full data, please contact chenwei_wu@stu.pku.edu.cn 
 
